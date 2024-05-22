@@ -1,0 +1,11 @@
+## file key name 'photo' for all these endpoints
+
+
+http://127.0.0.1:5000/bg-process?key=mykey
+
+
+http://127.0.0.1:5000/dm-process?key=mykey
+
+
+http://127.0.0.1:5000/rg-process?key=mykey
+
