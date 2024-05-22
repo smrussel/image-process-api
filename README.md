@@ -4,6 +4,10 @@
 This project provides a Flask-based API designed to perform image background removal, dominant color detection, and image recognition. Flask, the rembg package, and the keras image model are used in this project.
 
 
+## Python Version
+
+This project developed with python 3.10 version
+
 ## Run Locally
 
 Clone the project
